@@ -1,0 +1,6 @@
+# Install with: pip install -r requirements.txt
+
+opencv-python>=4.8.0
+# Pinned: newer MediaPipe releases removed the mp.solutions.pose API used here
+mediapipe==0.10.14
+numpy>=1.24.0
